@@ -1,4 +1,4 @@
-![Template Finder](https://user-images.githubusercontent.com/51785898/91436436-7c584f00-e83e-11ea-89e6-2d4ccaf67a9d.png)
+![Logo](https://user-images.githubusercontent.com/51785898/91583109-1abfdf80-e927-11ea-8ce3-1dc90ac8f9bd.png)
 
 Projeto de contribuição para comunidade de desenvolvimento! A ideia do projeto é ajudar os devs a encontrarem templates para seus projetos com toda estrutura de pastas e arquivos :)
 
