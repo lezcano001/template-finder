@@ -8,6 +8,7 @@ A alguns dias estava falando com o Mateus Silva sobre a questão de não existir
 😃 Open Source
 
 <p>😁 Colabore com o design : <a href="https://www.figma.com/file/epFy5E29vSvSU1aC1M2PZd/template-finder?node-id=4%3A115">Link</a> </p>
+<p>😃 Comunidade no Discord : <a href="https://discord.gg/TVhc9k">Link</a> </p>
 
 ## Lista de contribuições :
 * <p>Daywison Silva- <a href="https://www.linkedin.com/in/daywison-s-ab11b6121/">Linkedin</a> </p>
