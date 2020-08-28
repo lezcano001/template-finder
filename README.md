@@ -14,5 +14,6 @@ A alguns dias estava falando com o Mateus Silva sobre a questão de não existir
 * <p>Daywison Silva- <a href="https://www.linkedin.com/in/daywison-s-ab11b6121/">Linkedin</a> </p>
 * <p>Gabriel Pereira - <a href="https://www.linkedin.com/in/gabriel-pereira-oliveira-78b1801ab/">Linkedin</a> </p>
 * <p>Rômulo Melo - <a href="https://www.linkedin.com/in/romulo-melo/">Linkedin</a> </p>
+* <p>Fillipe Augusto - <a href="https://www.linkedin.com/in/fillipeags/">Linkedin</a> </p>
 
 Podem ser enviadas sugestões de melhoria e funcionalidades através de issues e forks no projeto :) 
