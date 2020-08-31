@@ -16,5 +16,11 @@ A alguns dias estava falando com o Mateus Silva sobre a questão de não existir
 * <p>Rômulo Melo - <a href="https://www.linkedin.com/in/romulo-melo/">Linkedin</a> </p>
 * <p>Fillipe Augusto - <a href="https://www.linkedin.com/in/fillipeags/">Linkedin</a> </p>
 * <p>Marcos Henrique Silveira Dias - <a href="https://www.linkedin.com/in/marcos-henrique-developer/">Linkedin</a> </p>
+* <p>ADAILSON AGUIAR- <a href="https://www.linkedin.com/in/adailsonaguiar/">Linkedin</a> </p>
+* <p>Brendo Souza Pinheiro- <a href="https://www.linkedin.com/in/brendo-souza-pinheiro">Linkedin</a> </p>
+* <p>Luciano Weslen- <a href="https://www.linkedin.com/in/lucianoweslen11">Linkedin</a> </p>
+* <p>Arthur Castro- <a href="https://www.linkedin.com/in/arthur-castro-9a65521">Linkedin</a> </p>
+* <p>Fernando Cardoso- <a href="https://www.linkedin.com/in/fernando-manoel-cardoso-8aaa9867/">Linkedin</a> </p>
+* <p>Daniel Giovane Fernandes- <a href="https://www.linkedin.com/in/daniel-fernandes2015">Linkedin</a> </p>
 
 Podem ser enviadas sugestões de melhoria e funcionalidades através de issues e forks no projeto :) 
