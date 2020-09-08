@@ -44,7 +44,7 @@ Senti que os templates poderiam ser encontrados de uma forma mais rápida e não
 - Contribua também com o [design](https://www.figma.com/file/epFy5E29vSvSU1aC1M2PZd/template-finder?node-id=4%3A115).
   <br>
 
-# Agradecimentos
+## Agradecimentos
 
 [![](https://img.shields.io/badge/Daywison%20Silva-212121)](https://www.linkedin.com/in/daywison-s-ab11b6121/)
 [![](https://img.shields.io/badge/Gabriel%20Pereira-212121)](https://www.linkedin.com/in/gabriel-pereira-oliveira-78b1801ab/)
