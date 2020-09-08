@@ -1,26 +1,64 @@
-![Logo](https://user-images.githubusercontent.com/51785898/91583109-1abfdf80-e927-11ea-8ce3-1dc90ac8f9bd.png)
+<p align="center">
+    <img src=".github/assets/images/logo-light-vertical.png" alt="Template finder logo" width="250px">
+    <h2 align="center">
+        Encontre templates para seus projetos.
+    </h2>
+</p>
 
-Projeto de contribuição para comunidade de desenvolvimento! A ideia do projeto é ajudar os devs a encontrarem templates para seus projetos com toda estrutura de pastas e arquivos :)
+<div align="center">
 
-## ⁉ De onde surgiu a ideia?
-A alguns dias estava falando com o Mateus Silva sobre a questão de não existir templates para nodejs , isso me deixou bem intrigado pelo fato de nós toda vez que montamos um projeto, temos que criar as mesmas pastas e estruturas, algo que poderia ser evitado :) , depois disso tentei achar uma forma de fazer exatamente isso usando o github, uma ferramenta que podemos colocar arquivos e contribuições, criando lá 2 templates, um com mongoDB e outro com postgres, mas mesmo assim senti que poderiam ser encontrados de uma forma mais rápida e não ter que procurar entre vários perfis, com isso tive a ideia de criar uma aplicação bem simples para praticar meus conhecimentos nos cursos, Crescendo aos poucos!E a ideia é uma é uma aplicação onde podemos visualizar e adicionar templates no site usando a url do github facilitando encontra-los! E também quero fazer algo open Source!
+[![Sobre](https://img.shields.io/badge/-Sobre-ff5733)](#sobre-o-projeto)
+[![ideia](https://img.shields.io/badge/-Ideia-ff5733)](#de-onde-surgiu-a-ideia)
+[![Contribuições](https://img.shields.io/badge/-Contribuições-ff5733)](#contribuições)
+[![Agradecimentos](https://img.shields.io/badge/-Agradecimentos-ff5733)](#agradecimentos)
+<br>
 
-😃 Open Source
+[![Discord](https://img.shields.io/badge/-Comunidade-212121?&labelColor=ff5733&logo=discord&logoColor=212121&link=https://discord.gg/8DP5TaM)](https://discord.gg/8DP5TaM)
+[![Licence](https://img.shields.io/badge/-Licença-212121)](/LICENSE)
+[![Issue](https://img.shields.io/badge/-Sugestões-212121)](https://github.com/marcoshenrique-dev/template-finder/issues/new/choose)
 
-<p>😁 Colabore com o design : <a href="https://www.figma.com/file/epFy5E29vSvSU1aC1M2PZd/template-finder?node-id=4%3A115">Link</a> </p>
-<p>😃 Comunidade no Discord : <a href="https://discord.gg/TVhc9k">Link</a> </p>
+</div>
 
-## Lista de contribuições :
-* <p>Daywison Silva- <a href="https://www.linkedin.com/in/daywison-s-ab11b6121/">Linkedin</a> </p>
-* <p>Gabriel Pereira - <a href="https://www.linkedin.com/in/gabriel-pereira-oliveira-78b1801ab/">Linkedin</a> </p>
-* <p>Rômulo Melo - <a href="https://www.linkedin.com/in/romulo-melo/">Linkedin</a> </p>
-* <p>Fillipe Augusto - <a href="https://www.linkedin.com/in/fillipeags/">Linkedin</a> </p>
-* <p>Marcos Henrique Silveira Dias - <a href="https://www.linkedin.com/in/marcos-henrique-developer/">Linkedin</a> </p>
-* <p>ADAILSON AGUIAR- <a href="https://www.linkedin.com/in/adailsonaguiar/">Linkedin</a> </p>
-* <p>Brendo Souza Pinheiro- <a href="https://www.linkedin.com/in/brendo-souza-pinheiro">Linkedin</a> </p>
-* <p>Luciano Weslen- <a href="https://www.linkedin.com/in/lucianoweslen11">Linkedin</a> </p>
-* <p>Arthur Castro- <a href="https://www.linkedin.com/in/arthur-castro-9a65521">Linkedin</a> </p>
-* <p>Fernando Cardoso- <a href="https://www.linkedin.com/in/fernando-manoel-cardoso-8aaa9867/">Linkedin</a> </p>
-* <p>Daniel Giovane Fernandes- <a href="https://www.linkedin.com/in/daniel-fernandes2015">Linkedin</a> </p>
+<p align="center">Gostou do projeto? Considere <a href="#">contrubuir</a> para nos ajudar a mater!
+</p>
+<br>
 
-Podem ser enviadas sugestões de melhoria e funcionalidades através de issues e forks no projeto :) 
+# Sobre o projeto
+
+Projeto de contribuição para comunidade de desenvolvimento! A ideia do projeto é ajudar os devs a encontrarem templates para seus projetos com toda estrutura de pastas e arquivos.
+
+## De onde surgiu a ideia?
+
+Durante uma discussão sobre nodeJS identifiquei alguns pontos que poderiam ser melhorados para ajudar a comunidade:
+
+- **Porque não existe templates para nodeJS ?**
+- **Teríamos que sempre criar as mesmas pastas e estruturas ?**
+
+Tentei achar uma forma de construir estes templates e disponibilizá-los, consequentemente utilizei o github, uma ferramenta que podemos colocar arquivos e contribuições, criando lá 2 templates: um com _mongoDB_ e outro com _postgres_.
+
+Senti que os templates poderiam ser encontrados de uma forma mais rápida e não ter que procurar entre vários perfis, com isso tive a ideia de criar uma aplicação para qualquer pessoa visualizar e adicionar templates usando os repositórios do github. **Um projeto para comunidade, criado pela comunidade**.
+
+# Contribuições
+
+- Todos podem contribuir, através do [discord](https://discord.gg/8DP5TaM) ou pelas [issues](https://github.com/marcoshenrique-dev/template-finder/issues/new/choose).
+- Contribua também com o [design](https://www.figma.com/file/laRLmG1duFmHMfrmdfzeIf/template-finder-contribui%C3%A7%C3%B5es?node-id=427%3A2).
+  <br>
+
+## Agradecimentos
+
+[![](https://img.shields.io/badge/Adailson%20Aguiar-212121)](https://www.linkedin.com/in/adailsonaguiar/)
+[![](https://img.shields.io/badge/Arthur%20Castro-212121)](https://www.linkedin.com/in/arthur-castro-9a65521)
+[![](https://img.shields.io/badge/Brendo%20Souza-212121)](https://www.linkedin.com/in/brendo-souza-pinheiro)
+[![](https://img.shields.io/badge/Daniel%20Giovane-212121)](https://www.linkedin.com/in/daniel-fernandes2015)
+[![](https://img.shields.io/badge/Daywison%20Silva-212121)](https://www.linkedin.com/in/daywison-s-ab11b6121/)
+[![](https://img.shields.io/badge/Fernando%20Cardoso-212121)](https://www.linkedin.com/in/fernando-manoel-cardoso-8aaa9867/)
+[![](https://img.shields.io/badge/Fillipe%20Augusto-212121)](https://www.linkedin.com/in/fillipeags/)
+[![](https://img.shields.io/badge/Gabriel%20Pereira-212121)](https://www.linkedin.com/in/gabriel-pereira-oliveira-78b1801ab/)
+[![](https://img.shields.io/badge/Luciano%20Weslen-212121)](https://www.linkedin.com/in/lucianoweslen11)
+[![](https://img.shields.io/badge/Marcos%20Henrique-212121)](https://www.linkedin.com/in/marcos-henrique-developer/)
+[![](https://img.shields.io/badge/Rafael%20Prado-212121)](https://www.linkedin.com/in/rpradosilva)
+[![](https://img.shields.io/badge/Rômulo%20Melo-212121)](https://www.linkedin.com/in/romulo-melo/)
+
+---
+
+Feito com ❤ para a **comunidade**.
