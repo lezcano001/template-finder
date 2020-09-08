@@ -42,7 +42,7 @@ Senti que os templates poderiam ser encontrados de uma forma mais rápida e não
 
 - Todos podem contribuir, através do [discord](https://discord.gg/TVhc9k) ou pelas [issues](https://github.com/rpradosilva/cli-iva-generator/issues/new/choose).
 - Contribua também com o [design](https://www.figma.com/file/epFy5E29vSvSU1aC1M2PZd/template-finder?node-id=4%3A115).
-  <br><br>
+  <br>
 
 # Agradecimentos
 
