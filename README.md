@@ -59,8 +59,6 @@ Senti que os templates poderiam ser encontrados de uma forma mais rápida e não
 [![](https://img.shields.io/badge/Rafael%20Prado-212121)](https://www.linkedin.com/in/rpradosilva)
 [![](https://img.shields.io/badge/Rômulo%20Melo-212121)](https://www.linkedin.com/in/romulo-melo/)
 
-<br>
-
 ---
 
 Feito com ❤ para a **comunidade**.
