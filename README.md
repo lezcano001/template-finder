@@ -1,5 +1,5 @@
 <p align="center">
-    <img src=".github/assets/images/logo-light-vertical.png" alt="Template finder logo" width="200px">
+    <img src=".github/assets/images/logo-light-vertical.png" alt="Template finder logo" width="250px">
     <h2 align="center">
         Encontre templates para seus projetos.
     </h2>
@@ -46,18 +46,19 @@ Senti que os templates poderiam ser encontrados de uma forma mais rápida e não
 
 ## Agradecimentos
 
-[![](https://img.shields.io/badge/Daywison%20Silva-212121)](https://www.linkedin.com/in/daywison-s-ab11b6121/)
-[![](https://img.shields.io/badge/Gabriel%20Pereira-212121)](https://www.linkedin.com/in/gabriel-pereira-oliveira-78b1801ab/)
-[![](https://img.shields.io/badge/Rômulo%20Melo-212121)](https://www.linkedin.com/in/romulo-melo/)
-[![](https://img.shields.io/badge/Fillipe%20Augusto-212121)](https://www.linkedin.com/in/fillipeags/)
-[![](https://img.shields.io/badge/Marcos%20Henrique-212121)](https://www.linkedin.com/in/marcos-henrique-developer/)
 [![](https://img.shields.io/badge/Adailson%20Aguiar-212121)](https://www.linkedin.com/in/adailsonaguiar/)
-[![](https://img.shields.io/badge/Brendo%20Souza-212121)](https://www.linkedin.com/in/brendo-souza-pinheiro)
-[![](https://img.shields.io/badge/Luciano%20Weslen-212121)](https://www.linkedin.com/in/lucianoweslen11)
 [![](https://img.shields.io/badge/Arthur%20Castro-212121)](https://www.linkedin.com/in/arthur-castro-9a65521)
-[![](https://img.shields.io/badge/Fernando%20Cardoso-212121)](https://www.linkedin.com/in/fernando-manoel-cardoso-8aaa9867/)
+[![](https://img.shields.io/badge/Brendo%20Souza-212121)](https://www.linkedin.com/in/brendo-souza-pinheiro)
 [![](https://img.shields.io/badge/Daniel%20Giovane-212121)](https://www.linkedin.com/in/daniel-fernandes2015)
+[![](https://img.shields.io/badge/Daywison%20Silva-212121)](https://www.linkedin.com/in/daywison-s-ab11b6121/)
+[![](https://img.shields.io/badge/Fernando%20Cardoso-212121)](https://www.linkedin.com/in/fernando-manoel-cardoso-8aaa9867/)
+[![](https://img.shields.io/badge/Fillipe%20Augusto-212121)](https://www.linkedin.com/in/fillipeags/)
+[![](https://img.shields.io/badge/Gabriel%20Pereira-212121)](https://www.linkedin.com/in/gabriel-pereira-oliveira-78b1801ab/)
+[![](https://img.shields.io/badge/Luciano%20Weslen-212121)](https://www.linkedin.com/in/lucianoweslen11)
+[![](https://img.shields.io/badge/Marcos%20Henrique-212121)](https://www.linkedin.com/in/marcos-henrique-developer/)
 [![](https://img.shields.io/badge/Rafael%20Prado-212121)](https://www.linkedin.com/in/rpradosilva)
+[![](https://img.shields.io/badge/Rômulo%20Melo-212121)](https://www.linkedin.com/in/romulo-melo/)
+
 <br>
 
 ---
