@@ -13,8 +13,8 @@
 [![Agradecimentos](https://img.shields.io/badge/-Agradecimentos-EF7B45)](#agradecimentos)
 <br>
 
-[![Discord](https://img.shields.io/badge/-Comunidade-212121?&labelColor=EF7B45&logo=discord&logoColor=212121&link=https://discord.gg/TVhc9k)](https://discord.gg/TVhc9k)
-[![Licence](https://img.shields.io/badge/-Licença-212121)](.github/LICENCE)
+[![Discord](https://img.shields.io/badge/-Comunidade-212121?&labelColor=EF7B45&logo=discord&logoColor=212121&link=https://discord.gg/8DP5TaM)](https://discord.gg/8DP5TaM)
+[![Licence](https://img.shields.io/badge/-Licença-212121)](LICENCE)
 [![Issue](https://img.shields.io/badge/-Sugestões-212121)](https://github.com/rpradosilva/cli-iva-generator/issues/new/choose)
 
 </div>
@@ -40,7 +40,7 @@ Senti que os templates poderiam ser encontrados de uma forma mais rápida e não
 
 # Contribuições
 
-- Todos podem contribuir, através do [discord](https://discord.gg/TVhc9k) ou pelas [issues](https://github.com/rpradosilva/cli-iva-generator/issues/new/choose).
+- Todos podem contribuir, através do [discord](https://discord.gg/8DP5TaM) ou pelas [issues](https://github.com/rpradosilva/cli-iva-generator/issues/new/choose).
 - Contribua também com o [design](https://www.figma.com/file/epFy5E29vSvSU1aC1M2PZd/template-finder?node-id=4%3A115).
   <br>
 
