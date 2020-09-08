@@ -15,7 +15,7 @@
 
 [![Discord](https://img.shields.io/badge/-Comunidade-212121?&labelColor=ff5733&logo=discord&logoColor=212121&link=https://discord.gg/8DP5TaM)](https://discord.gg/8DP5TaM)
 [![Licence](https://img.shields.io/badge/-Licença-212121)](/LICENSE)
-[![Issue](https://img.shields.io/badge/-Sugestões-212121)](https://github.com/rpradosilva/cli-iva-generator/issues/new/choose)
+[![Issue](https://img.shields.io/badge/-Sugestões-212121)](https://github.com/marcoshenrique-dev/template-finder/issues/new/choose)
 
 </div>
 
@@ -40,7 +40,7 @@ Senti que os templates poderiam ser encontrados de uma forma mais rápida e não
 
 # Contribuições
 
-- Todos podem contribuir, através do [discord](https://discord.gg/8DP5TaM) ou pelas [issues](https://github.com/rpradosilva/cli-iva-generator/issues/new/choose).
+- Todos podem contribuir, através do [discord](https://discord.gg/8DP5TaM) ou pelas [issues](https://github.com/marcoshenrique-dev/template-finder/issues/new/choose).
 - Contribua também com o [design](https://www.figma.com/file/laRLmG1duFmHMfrmdfzeIf/template-finder-contribui%C3%A7%C3%B5es?node-id=427%3A2).
   <br>
 
