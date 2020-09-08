@@ -14,7 +14,7 @@
 <br>
 
 [![Discord](https://img.shields.io/badge/-Comunidade-212121?&labelColor=EF7B45&logo=discord&logoColor=212121&link=https://discord.gg/8DP5TaM)](https://discord.gg/8DP5TaM)
-[![Licence](https://img.shields.io/badge/-Licença-212121)](LICENCE)
+[![Licence](https://img.shields.io/badge/-Licença-212121)](/LICENSE)
 [![Issue](https://img.shields.io/badge/-Sugestões-212121)](https://github.com/rpradosilva/cli-iva-generator/issues/new/choose)
 
 </div>
