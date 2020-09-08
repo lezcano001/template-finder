@@ -7,13 +7,13 @@
 
 <div align="center">
 
-[![Sobre](https://img.shields.io/badge/-Sobre-EF7B45)](#sobre-o-projeto)
-[![ideia](https://img.shields.io/badge/-Ideia-EF7B45)](#de-onde-surgiu-a-ideia)
-[![Contribuições](https://img.shields.io/badge/-Contribuições-EF7B45)](#contribuições)
-[![Agradecimentos](https://img.shields.io/badge/-Agradecimentos-EF7B45)](#agradecimentos)
+[![Sobre](https://img.shields.io/badge/-Sobre-ff5733)](#sobre-o-projeto)
+[![ideia](https://img.shields.io/badge/-Ideia-ff5733)](#de-onde-surgiu-a-ideia)
+[![Contribuições](https://img.shields.io/badge/-Contribuições-ff5733)](#contribuições)
+[![Agradecimentos](https://img.shields.io/badge/-Agradecimentos-ff5733)](#agradecimentos)
 <br>
 
-[![Discord](https://img.shields.io/badge/-Comunidade-212121?&labelColor=EF7B45&logo=discord&logoColor=212121&link=https://discord.gg/8DP5TaM)](https://discord.gg/8DP5TaM)
+[![Discord](https://img.shields.io/badge/-Comunidade-212121?&labelColor=ff5733&logo=discord&logoColor=212121&link=https://discord.gg/8DP5TaM)](https://discord.gg/8DP5TaM)
 [![Licence](https://img.shields.io/badge/-Licença-212121)](/LICENSE)
 [![Issue](https://img.shields.io/badge/-Sugestões-212121)](https://github.com/rpradosilva/cli-iva-generator/issues/new/choose)
 
